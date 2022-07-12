@@ -1,0 +1,1 @@
+Here's the result Hello this is first text file  and Hello this is second text file dis you notice i am appended by flag a
